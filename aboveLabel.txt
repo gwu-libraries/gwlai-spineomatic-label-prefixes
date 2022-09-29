@@ -1,0 +1,6 @@
+Gelman Library+GRC Stacks=GRC
+Gelman Library+GRC/Japan Resource Ctr, Stacks=GRC;JRC
+Gelman Library+GRC/Reddaway Research Collection=GRC;Red
+Gelman Library+Open Media=MED/O
+Virginia Science & Technology Campus Library+Stacks=NVC
+
