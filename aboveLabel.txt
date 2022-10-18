@@ -35,6 +35,7 @@ Gelman Library+Open Media=MED/O
 Gelman Library+Reference (2nd floor)=REF
 Gelman Library+Reference Desk=REF/DESK
 Gelman Library+Special Collections=SPEC
+Gelman Library+Special Collections Reference=SPEC
 Gelman Library+Stacks Oversize=Oversize
 Gelman Library+Stacks Flat Oversize=FLAT;OVERSIZE
 Virginia Science & Technology Campus Library+Nursing Collection=NVN
