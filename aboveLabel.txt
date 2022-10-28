@@ -1,5 +1,5 @@
 Eckles Library+1st Floor Stacks=MtVC;1st floor
-Eckles Library+Media=MtVC;MED
+Eckles Library+Media Videos=MtVC;MED/O
 Eckles Library+Ready Reference=MtVC;Ready/REF
 Eckles Library+Reference=MtVC;REF
 Eckles Library+Stacks=MtVC
