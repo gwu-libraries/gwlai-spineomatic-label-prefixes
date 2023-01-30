@@ -19,6 +19,7 @@ Gelman Library+GRC - Middle East/N Africa Res. Ctr, Stacks=GRC;MENA
 Gelman Library+GRC Media=GRC;MED
 Gelman Library+GRC - Middle East/N Africa Res. Ctr, Reference=GRC;MENA;REF
 Gelman Library+GRC - Middle East/N Africa Res. Ctr, Stat=GRC;MENA;STATS
+Gelman Library+GRC/MENA-Islamic Studies=GRC;ISST
 Gelman Library+GRC Reference=GRC;REF
 Gelman Library+GRC/Reddaway Research Collection=GRC;Red
 Gelman Library+GRC Statistics=GRC;STATS
