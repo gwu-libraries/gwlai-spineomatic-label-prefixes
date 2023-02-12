@@ -35,7 +35,6 @@ Gelman Library+Oliver Reading Room Ref=Oliver;REF
 Gelman Library+Oliver Reading Room Ref Oversize=Oliver;REF;Oversize
 Gelman Library+Open Media=MED/O
 Gelman Library+Reference (2nd floor)=REF
-Gelman Library+Reference Desk=REF/DESK
 Gelman Library+Special Collections=SPEC
 Gelman Library+Special Collections Reference=SPEC
 Gelman Library+Stacks Oversize=Oversize
