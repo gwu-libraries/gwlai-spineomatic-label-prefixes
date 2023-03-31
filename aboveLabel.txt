@@ -14,6 +14,7 @@ Gelman Library+GRC/China Documentation Ctr, Statistics=GRC;CDC;STATS
 Gelman Library+GRC/Japan Resource Ctr, Stacks=GRC;JRC
 Gelman Library+GRC/Japan Resource Ctr, Reference=GRC;JRC;REF
 Gelman Library+GRC/Japan Resource Ctr, Statistics=GRC;JRC;STAT
+Gelman Library+GRC/Korea Resources, Stacks=GRC;Korea
 Gelman Library+GRC - Middle East/N Africa Res. Ctr, Stacks=GRC;MENA
 Gelman Library+GRC Media=GRC;MED
 Gelman Library+GRC - Middle East/N Africa Res. Ctr, Reference=GRC;MENA;REF
