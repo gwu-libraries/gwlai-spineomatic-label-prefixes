@@ -11,6 +11,7 @@ Gelman Library+GRC/Asia Reference=GRC;Asian/Ref
 Gelman Library+GRC/China Documentation Ctr, Stacks=GRC;CDC
 Gelman Library+GRC/China Documentation Ctr, Reference=GRC;CDC;REF
 Gelman Library+GRC/China Documentation Ctr, Statistics=GRC;CDC;STATS
+Gelman Library+GRC Graphic Novels=GRC;GRAPH
 Gelman Library+GRC/Japan Resource Ctr, Stacks=GRC;JRC
 Gelman Library+GRC/Japan Resource Ctr, Reference=GRC;JRC;REF
 Gelman Library+GRC/Japan Resource Ctr, Statistics=GRC;JRC;STATS
