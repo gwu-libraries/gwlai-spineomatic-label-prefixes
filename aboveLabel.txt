@@ -11,7 +11,7 @@ Gelman Library+GRC/Asia Reference=GRC;Asian/Ref
 Gelman Library+GRC/China Documentation Ctr, Stacks=GRC;CDC
 Gelman Library+GRC/China Documentation Ctr, Reference=GRC;CDC;REF
 Gelman Library+GRC/China Documentation Ctr, Statistics=GRC;CDC;STATS
-Gelman Library+GRC/China Documentation Ctr, Uyghur=GRC;CDC;UYGHUR
+Gelman Library+GRC/China Documentation Ctr, Uyghur=GRC;UYGHUR
 Gelman Library+GRC Graphic Novels=GRC;GRAPH
 Gelman Library+GRC/Japan Resource Ctr, Stacks=GRC;JRC
 Gelman Library+GRC/Japan Resource Ctr, Reference=GRC;JRC;REF
@@ -54,5 +54,6 @@ Virginia Science & Technology Campus Library+Nursing Collection=NVN
 Virginia Science & Technology Campus Library+Reference=NVC;REF
 Virginia Science & Technology Campus Library+Stacks=NVC
 Virginia Science & Technology Campus Library+Virginia Collection=NVC
+
 
 
