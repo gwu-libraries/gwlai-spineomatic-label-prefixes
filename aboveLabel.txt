@@ -4,6 +4,7 @@ Eckles Library+Ready Reference=MtVC;Ready/REF
 Eckles Library+Reference=MtVC;REF
 Eckles Library+Stacks=MtVC
 Eckles Library+Stacks Oversize=MtVC;Oversize
+Gelman Library+2nd Floor Wall Books=2nd Floor
 Gelman Library+Closed Media=MED/C
 Gelman Library+GRC Stacks=GRC
 Gelman Library+GRC Atlas Case=GRC;Atlas
@@ -54,6 +55,7 @@ Virginia Science & Technology Campus Library+Nursing Collection=NVN
 Virginia Science & Technology Campus Library+Reference=NVC;REF
 Virginia Science & Technology Campus Library+Stacks=NVC
 Virginia Science & Technology Campus Library+Virginia Collection=NVC
+
 
 
 
