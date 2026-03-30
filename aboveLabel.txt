@@ -50,6 +50,7 @@ Special Collections Research Center+Special Collections Maps=SPEC
 Special Collections Research Center+Special Collections Microfiche=SPEC
 Special Collections Research Center+Special Collections Microfilm=SPEC
 Special Collections Research Center+Special Collections Reference=SPEC;REF
+Special Collections Research Center+WRLC Storage Restricted=SPEC
 Gelman Library+Stacks Oversize=Oversize
 Gelman Library+Stacks Flat Oversize=FLAT;OVERSIZE
 Virginia Science & Technology Campus Library+Nursing Collection=NVN
